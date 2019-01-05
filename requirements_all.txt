@@ -23,6 +23,9 @@ voluptuous-serialize==2.0.0
 # homeassistant.components.sensor.dht
 # Adafruit-DHT==1.4.0
 
+# homeassistant.components.sensor.energenie
+pymihome==0.06
+
 # homeassistant.components.sensor.sht31
 Adafruit-GPIO==1.0.3
 
